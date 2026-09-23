@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jonatas-lopes-b6629a211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonatas-lopes-b6629a211" height="30" width="40" /></a>
-<a href="mailto:jonataslopes.011@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:jonataslopes.011@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="email" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Currently building:</h3>
@@ -30,7 +30,7 @@
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/supabase" alt="supabase" width="40" height="40"/> </a>
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/cloudflare" alt="cloudflare" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/git" alt="git" width="40" height="40"/> </a>
 </p>
 <br/>
 
