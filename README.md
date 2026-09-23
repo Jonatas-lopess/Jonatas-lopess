@@ -9,9 +9,9 @@
 
 <h3 align="left">Currently building:</h3>
 <p align="left">
-🧾 <a href="https://github.com/Jonatas-lopess/erp_project">SIGA ERP</a> — local-first ERP with NFC-e issuance and license verification in Rust<br/>
-⛪ <a href="https://github.com/Jonatas-lopess/project-ebd">EBD App</a> — multi-tenant church management platform (Postgres RLS, offline-first sync)<br/>
-🖥️ <a href="https://github.com/Jonatas-lopess/office_manager">ManagerDesk</a> — LAN-based business management app with CRDT sync
+<a href="https://github.com/Jonatas-lopess/erp_project">SIGA ERP</a> — local-first ERP with NFC-e issuance and license verification in Rust<br/>
+<a href="https://github.com/Jonatas-lopess/project-ebd">EBD App</a> — multi-tenant church management platform (Postgres RLS, offline-first sync)<br/>
+<a href="https://github.com/Jonatas-lopess/office_manager">ManagerDesk</a> — LAN-based business management app with CRDT sync
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
