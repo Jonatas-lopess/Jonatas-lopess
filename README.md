@@ -28,9 +28,21 @@ I design and build software that keeps working when the network doesn't: offline
 
 <div align="center">
 
-<img src="https://skillicons.io/icons?i=php,laravel,js,ts,react,nextjs,tailwind&perline=7" alt="Web stack" />
-<br/>
-<img src="https://skillicons.io/icons?i=rust,tauri,postgres,mongodb,supabase,cloudflare,git&perline=7" alt="Systems, data and infrastructure" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="44" height="44" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="44" height="44" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="44" height="44" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="44" height="44" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="44" height="44" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="44" height="44" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="44" height="44" />
+<br/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="44" height="44" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="Tauri" width="44" height="44" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="44" height="44" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="44" height="44" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="44" height="44" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="44" height="44" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="44" height="44" />
 
 </div>
 
@@ -41,14 +53,6 @@ I design and build software that keeps working when the network doesn't: offline
 | **Backend** | Laravel, Tauri |
 | **Data** | PostgreSQL, MongoDB, Supabase |
 | **Infrastructure & Tools** | Cloudflare, Git |
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatas-lopess&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2&text_color=808080" alt="Top languages" />
-
-</div>
 
 ---
 
